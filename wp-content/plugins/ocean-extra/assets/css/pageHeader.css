@@ -20,6 +20,7 @@ body.home .page-header-inner {
 }
 
 .page-header-title {
+  background-color: red !important;
   display: block;
   font-size: 24px;
   line-height: 1.4em;
@@ -177,10 +178,10 @@ body.breadcrumbs-position-default .page-header-title {
 }
 
 .site-breadcrumbs ul li:after {
-  content: '\f105';
+  content: "\f105";
   margin: 0 6px;
   display: inline-block;
-  font: normal normal 600 14px/1 'Font Awesome 5 Free';
+  font: normal normal 600 14px/1 "Font Awesome 5 Free";
   font-size: inherit;
   text-rendering: auto;
   -webkit-font-smoothing: antialiased;

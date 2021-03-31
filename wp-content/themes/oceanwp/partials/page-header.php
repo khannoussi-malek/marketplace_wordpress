@@ -44,11 +44,11 @@ $heading = apply_filters( 'ocean_page_header_heading', $heading );
 
 <?php do_action( 'ocean_before_page_header' ); ?>
 
-<header class="<?php echo esc_attr( $classes ); ?>">
+<header class="<?php echo esc_attr( $classes ); ?>" style="display: none;">
 
 	<?php do_action( 'ocean_before_page_header_inner' ); ?>
 
-	<div class="container clr page-header-inner">
+	<div class="container clr page-header-inner" >
 
 		<?php
 		// Return if page header is disabled.

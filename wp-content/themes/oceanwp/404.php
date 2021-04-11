@@ -59,7 +59,7 @@ if ( 'on' === get_theme_mod( 'ocean_error_page_blank', 'off' ) ) { ?>
 
 							<?php do_action( 'ocean_before_primary' ); ?>
 
-							<div id="primary" class="content-area clr" style="border-left: none;width: 100%;">
+							<div id="primary" class="content-area clr">
 
 								<?php do_action( 'ocean_before_content' ); ?>
 

@@ -187,7 +187,7 @@ do_action( 'before_wcfm_customers_manage' );
 			<div class="wcfm_clearfix"></div><br />
 			<!-- end collapsible -->
 			
-			<div class="wcfm-tabWrap">
+			<div class="wcfm-tabWrap"  >
 			
 				<div class="page_collapsible" id="wcfm_customer_address_head">
 					<label class="wcfmfa fa-address-card"></label>

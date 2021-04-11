@@ -159,7 +159,7 @@ $store_lng = get_user_meta( $user_id, '_store_lng', true ) ? get_user_meta( $use
 	
 			<?php do_action( 'begin_wcfm_wcmarketplace_settings_form' ); ?>
 			
-			<div class="wcfm-tabWrap">
+			<div class="wcfm-tabWrap" >
 			  <!-- collapsible - Store -->
 				<div class="page_collapsible" id="wcfm_settings_dashboard_head">
 					<label class="wcfmfa fa-shopping-bag"></label>

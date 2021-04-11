@@ -1,0 +1,45 @@
+----------------------------------------------------------------------------------------------------------------------
+Woo Shortcodes Kit v 1.9.7 (04/04/21) by Alberto G. - https://disespubli.com/
+
+Included:
+
+== Changelog ==
+
+= 1.9.7 =
+ *Changelog (04/04/21)
+ 
+
+FIXED
+-----------
+
++ Fixed the Customer purchased products loop function, from now on it no longer affects the configuration of the columns to the product categories page
+
++ Fixed the Products per page Manager function, from now on it no longer affects the configuration of the columns to the product categories page
+
++ Now the message that the administrator receives after registering a user will be able to interpret content in HTML
+
++ Now the VIEW ORDERS template does not have the line break in the mark on the status of the order that will lower the end point of the sentence
+
+
+UPDATED
+-----------
+
++ Spanish language template
++ Brazilian/Portuguese language template
+
+
+COMPATIBILITY TEST
+--------------------
+
++ Compatible with Easy My Account Builder 1.0.8
+
++ Compatible with WSHK PRO (old Custom Blocks & Redirections) v 1.1.6
+
++ Compatible with WordPress 5.7
+
++ Compatible with WooCommerce 5.1.0
+
++ Compatible with Php 7.4
+
+
+[Old changelogs](https://disespubli.com/docs/)

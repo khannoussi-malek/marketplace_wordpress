@@ -135,7 +135,7 @@ if( $theme == 'classic' ) {
 <?php if( $sidebar && $WCFMmp->wcfmmp_vendor->is_store_lists_sidebar() && ($store_sidebar_pos != 'left' ) ) { ?>
 	<style>
 		#wcfmmp-stores-lists .right_side{float:left !important;}
-		#wcfmmp-stores-lists .left_sidebar{float:right !important;}
+		#wcfmmp-stores-lists .left_sidebar{ float:right !important;}
 	</style>
 <?php } ?>
 

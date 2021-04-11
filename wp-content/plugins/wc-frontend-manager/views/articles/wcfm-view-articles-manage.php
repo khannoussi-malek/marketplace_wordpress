@@ -410,7 +410,7 @@ if( $wpeditor && $rich_editor ) {
 			<div class="wcfm_clearfix"></div><br />
 			
 			<!-- wrap -->
-			<div class="wcfm-tabWrap">
+			<div class="wcfm-tabWrap" >
 			  <?php do_action( 'after_wcfm_articles_manage_general', $article_id ); ?>
 			
 			  <?php include( 'wcfm-view-articles-manage-tabs.php' ); ?>

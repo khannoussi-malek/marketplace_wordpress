@@ -67,7 +67,7 @@ if ( ! class_exists( 'OceanWP_Sensei' ) ) :
 
 				<?php do_action( 'ocean_before_primary' ); ?>
 
-				<div id="primary" class="content-area clr" style="border-left: none;width: 100%;">
+				<div id="primary" class="content-area clr" >
 
 					<?php do_action( 'ocean_before_content' ); ?>
 

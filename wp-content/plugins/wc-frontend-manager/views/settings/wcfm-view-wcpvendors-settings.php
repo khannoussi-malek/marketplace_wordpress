@@ -96,7 +96,7 @@ $is_marketplace = wcfm_is_marketplace();
 	
 			<?php do_action( 'begin_wcfm_wcpvendors_settings_form' ); ?>
 			
-			<div class="wcfm-tabWrap">
+			<div class="wcfm-tabWrap"  s>
 				<!-- collapsible -->
 				<div class="page_collapsible" id="wcfm_settings_dashboard_head">
 					<label class="wcfmfa fa-shopping-bag"></label>

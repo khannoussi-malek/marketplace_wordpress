@@ -41,7 +41,7 @@
 
 						<?php do_action( 'ocean_before_primary' ); ?>
 
-						<section id="primary" class="content-area clr" style="border-left: none;width: 100%;">
+						<section id="primary" class="content-area clr" >
 
 							<?php do_action( 'ocean_before_content' ); ?>
 

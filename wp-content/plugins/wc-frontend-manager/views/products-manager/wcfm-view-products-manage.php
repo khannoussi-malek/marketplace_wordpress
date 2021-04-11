@@ -913,7 +913,7 @@ if ( $product_id && defined( 'ICL_SITEPRESS_VERSION' ) && ! ICL_PLUGIN_INACTIVE 
 			
 			<?php do_action( 'wcfm_product_manager_before_tabs_area', $product_id, $product_type, $wcfm_is_translated_product, $wcfm_wpml_edit_disable_element ); ?>
 			
-			<div class="wcfm-tabWrap">
+			<div class="wcfm-tabWrap" >
 			  <div class="wcfm-tabWrap-content <?php echo $wcfm_tab_class; ?>">
 					<?php do_action( 'after_wcfm_products_manage_general', $product_id, $product_type, $wcfm_is_translated_product, $wcfm_wpml_edit_disable_element ); ?>
 				

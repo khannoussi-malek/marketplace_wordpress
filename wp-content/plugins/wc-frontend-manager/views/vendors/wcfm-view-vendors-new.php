@@ -99,7 +99,7 @@ do_action( 'before_wcfm_vendors_new' );
 			<div class="wcfm_clearfix"></div><br />
 			<!-- end collapsible -->
 			
-			<div class="wcfm-tabWrap">
+			<div class="wcfm-tabWrap"  >
 			
 			  <?php do_action( 'begin_wcfm_vendors_new_form', 99999 ); ?>
 			

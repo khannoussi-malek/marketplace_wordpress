@@ -190,7 +190,7 @@ if( wcfm_is_vendor() && apply_filters( 'wcfm_is_allow_email_verification', true 
 	
 			<?php do_action( 'begin_wcfm_wcvendors_profile_form' ); ?>
 			
-			<div class="wcfm-tabWrap">
+			<div class="wcfm-tabWrap" >
 			
 				<!-- collapsible -->
 				<div class="page_collapsible" id="wcfm_profile_address_head">

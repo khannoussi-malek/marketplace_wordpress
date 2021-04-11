@@ -132,7 +132,7 @@ $is_marketplace = wcfm_is_marketplace();
 	
 			<?php do_action( 'begin_wcfm_settings_form' ); ?>
 			
-			<div class="wcfm-tabWrap">
+			<div class="wcfm-tabWrap"  >
 				
 				<?php do_action( 'begin_wcfm_settings_form_dashboard', $wcfm_options ); ?>
 			
